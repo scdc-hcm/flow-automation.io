@@ -6,6 +6,14 @@ main:
   - title: "Labs"
     url: /labs/
 
+  -   title: "Downloads"
+      url: /Downloads/
+
+  -   title: "Acknowledgement"
+      url: /acknowledgement/
+
+  -   title: "Contacts"
+      url: /contacts/
 #  - title: "Teaching"
 #    url: /teaching/
 #

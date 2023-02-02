@@ -1,16 +1,22 @@
 ---
 title: "Chương 1: Tìm hiểu tổng quan"
 collection: teaching
-type: "Undergraduate course"
+type: "Student course"
 permalink: /teaching/chapter-1-overview
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "SCDC HCMC"
+date: 2023-02-02
+location: "HCMC, Vietnam"
 ---
 
 
 Quy trình thiết kế vi mạch số
 
-
-Tổng quan về các công cụ Synopsys
-======
+Tài Liệu  
+========
+* #### Slides (PPT)
+  * Giới thiệu môn học [📥](files/slides/chapter_1_1_gioi_thieu_chung.pptx)
+  * Quy trình thiết kế vi mạch [📥]()
+  * Giới thiệu bộ công cụ Synopsys [📥]()
+* #### Liên kết
+* #### Tài liệu Tham Khảo
+* #### Công cụ
