@@ -10,7 +10,7 @@ location: "City, Country"
 
 
 Quy trình thiết kế vi mạch số
-======
+
 
 Tổng quan về các công cụ Synopsys
 ======

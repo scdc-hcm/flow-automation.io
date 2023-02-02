@@ -27,7 +27,7 @@ redirect_from:
 
 # 3. MỤC TIÊU MÔN HỌC
 
-**Sau khi hoàn thành môn học này, sinh viên có thể: **
+**Sau khi hoàn thành môn học này, sinh viên có thể:**
 
 * Có kỹ năng tìm hiểu và nghiên cứu giải quyết các bài toán có tính khoa học
 * Có kỹ năng phân tích, tổng hợp và tư duy hệ thống
