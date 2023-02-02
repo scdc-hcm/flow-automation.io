@@ -1,14 +1,13 @@
 ---
-title: "Lab 2: Logic Synthesis. Design Compiler"
+title: "LAB5 - Post Layout Verification"
 collection: labs
 type: "University course"
-permalink: /labs/lab2-logic-synthesis
+permalink: /labs/lab5-post-layout-verification
 venue: "IC Design Lab, SCDC HCM"
 date: 2023-02-02
 location: "HCMC, Vietnam"
 ---
-
-Biên dịch thiết kế RTL sử dụng phần mềm DC Compiler
+Kiểm tra sau layout
 
 Mục tiêu
 ======
@@ -18,6 +17,7 @@ Giới thiệu
 
 Hướng dẫn thực hành
 ======
+
 
 Bài tập
 ======

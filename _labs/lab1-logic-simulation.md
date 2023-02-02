@@ -18,7 +18,7 @@ Giới thiệu
 
 Hướng dẫn thực hành
 ======
-### Bước 1
+## 
 ```
 % vcs johnson_test.v johnson.v –gui –debug_all
 ```
