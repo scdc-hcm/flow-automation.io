@@ -1,10 +1,15 @@
 # main links links
 main:
+  - title: "Syllabus"
+    url: /syllabus/
   - title: "Lectures"
     url: /teaching/
 
   - title: "Labs"
     url: /labs/
+
+  - title: "Projects"
+    url: /projects/
 
   -   title: "Downloads"
       url: /Downloads/
