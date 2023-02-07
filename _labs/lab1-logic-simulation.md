@@ -23,5 +23,9 @@ Hướng dẫn thực hành
 % vcs johnson_test.v johnson.v –gui –debug_all
 ```
 
+Tải tài liệu
+======
+* Hướng dẫn thực hành  [pdf 📥](https://link.uit.edu.vn/ic101-lab1)
+
 Bài tập
 ======
