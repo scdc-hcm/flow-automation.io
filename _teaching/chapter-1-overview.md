@@ -15,8 +15,8 @@ Tài Liệu
 ========
 * #### Slides
   
-  * Giới thiệu môn học [pdf 📥](https://uithcm-my.sharepoint.com/:b:/g/personal/cuongtv_hcmuit_edu_vn/EV4Dh9EriKhPn0kdk3BAPvoBCapDHmtcpwhar6Z3l2AhbA?e=5f6bNq)
-  * Chương 1. Tìm hiểu tổng quan [pdf 📥](https://uithcm-my.sharepoint.com/:b:/g/personal/cuongtv_hcmuit_edu_vn/EYF-ajJp5PdEht7UqedShpMBH0Vd1B4WNbH8q0tCnJzoXw?e=cQ9LAI)
+  * Giới thiệu môn học [pdf 📥](https://link.uit.edu.vn/ic101-ch0)
+  * Chương 1. Tìm hiểu tổng quan [pdf 📥](https://link.uit.edu.vn/ic101-ch1)
 * #### Liên kết
 * #### Tài liệu Tham Khảo
 * #### Công cụ
