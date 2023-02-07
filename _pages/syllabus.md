@@ -89,12 +89,12 @@ modified: 2023-02-02
 * 7.3. IC Validator
 
 ## B. THỰC HÀNH
-#### [Lab 1: Logic Simulation](labs/lab1-logic-simulator)
-#### [Lab 2: Logic Synthesis. Design Compiler](labs/lab2-logic-synthesis)
-#### [Lab 3: Physical Design](labs/lab3-physical-design-icc-ii)
-#### [Lab 4: Static Timing Analysis](labs/lab4-sta)
-#### [Lab 5: Post Layout Verification](labs/lab5-post-layout-verification)
-#### [Lab 6: Flow Automation](labs/lab6-flow-automation)
+#### [Lab 1: Logic Simulation](../labs/lab1-logic-simulator)
+#### [Lab 2: Logic Synthesis. Design Compiler](../labs/lab2-logic-synthesis)
+#### [Lab 3: Physical Design](../labs/lab3-physical-design-icc-ii)
+#### [Lab 4: Static Timing Analysis](../labs/lab4-sta)
+#### [Lab 5: Post Layout Verification](../labs/lab5-post-layout-verification)
+#### [Lab 6: Flow Automation](../labs/lab6-flow-automation)
 # TÀI LIỆU HỌC TẬP, THAM KHẢO
 * V.Taraate. Digital Logic Design Using Verilog: Coding and RTL Synthesis. Springer; 2016
 * A. Reis, R. Drechsler. Advanced Logic Synthesis. Springer. 2017
