@@ -7,10 +7,12 @@ modified: 2023-02-02
 {% include base_path %}
 
 Để có thể tiếp tục hoàn thiện được chương trình, nhóm chân thành cảm ơn các đơn vị và công ty đã hỗ trợ nhóm:
-Công ty Synopsys
-Khu Công nghệ cao Thành phố Hồ Chí Minh (SHTP)
-Trung tâm Thiết kế vi mạch (SCDC)
-Phòng Thiết kế vi mạch (Chip Design Lab, SHTP training)
+* Công ty Synopsys
+* Khu Công nghệ cao Thành phố Hồ Chí Minh (SHTP)
+* Trung tâm Thiết kế vi mạch (SCDC)
+* Phòng Thiết kế vi mạch (Chip Design Lab, SHTP training)
+
+
 ![image](https://user-images.githubusercontent.com/7957412/217720962-04faff03-aaa0-4f82-b183-9d80e21536f9.png)
 
 ##### Link tham khảo
