@@ -9,7 +9,31 @@ location: "HCMC, Vietnam"
 ---
 
 
-Quy trình thiết kế vi mạch số
+Giới thiệu tổng quan
+
+Tóm tắt
+========
+* Thời lượng: 3 Tiết
+* Nội dung:
+Bài học gồm ba phần chính: Giới thiệu môn học, quy trình thiết kế vi mạch số, và tổng quan về các công cụ thiết kế số
+
+##### Giới thiệu môn học
+
+Giới thiệu tới sinh viên các thông tin chi tiết về môn học: chương trình học, hình thức học, đề cương chi tiết, cách đánh giá môn học và một số nội quy khi sinh viên gia lớp học
+
+##### Quy trình thiết kế vi mạch số
+![image](https://scdc-hcm.github.io/flow-automation.io/images/lectures/figure-ic-design-detail-tools.svg)
+##### Tổng quan về các công cụ thiết kế số
+
+A. VCS + DVE
+B. Design Compiler NXT
+C. TestMAX DFT
+D. Formality
+E. PrimeTime
+F. IC Compiler II
+G. StarRC
+H. IC Validator
+
 
 Tài Liệu  
 ========
