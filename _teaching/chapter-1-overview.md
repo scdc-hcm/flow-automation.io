@@ -37,8 +37,9 @@ Tài Liệu
 ========
 * #### Slides
   
-  * Giới thiệu môn học [doc 📥](https://link.uit.edu.vn/ic101-ch0)
-  * Chương 1. Tìm hiểu tổng quan [doc 📥](https://link.uit.edu.vn/ic101-ch1)
+  * Chương 0 Giới thiệu môn học [doc 📥](https://link.uit.edu.vn/ic101-ch0)
+  * Chương 1.1 Tổng quan về quy trình thiết kế vi mạch số [doc 📥](https://link.uit.edu.vn/ic101-ch1-1)
+  * Chương 1.2 Giới thiệu các công cụ thiết kế [doc 📥](https://link.uit.edu.vn/ic101-ch1-2)
 
 * #### Liên kết
   * [Website môn học: https://scdc-hcm.github.io/flow-automation.io ](https://scdc-hcm.github.io/flow-automation.io)
