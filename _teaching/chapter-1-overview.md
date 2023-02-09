@@ -13,10 +13,10 @@ Tóm tắt
 ========
 * Thời lượng: 3 Tiết
 * Nội dung:
-Bài học gồm ba phần chính: 
-    * Giới thiệu môn học
-    * Quy trình thiết kế vi mạch số
-    * Tổng quan về các công cụ thiết kế số
+* Bài học gồm ba phần chính: 
+   * Giới thiệu môn học
+   * Quy trình thiết kế vi mạch số
+   * Tổng quan về các công cụ thiết kế số
 
 ##### Giới thiệu môn học
 
