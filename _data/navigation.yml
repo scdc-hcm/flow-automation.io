@@ -12,7 +12,7 @@ main:
     url: /projects/
 
   -   title: "Downloads"
-      url: /Downloads/
+      url: /downloads/
 
   -   title: "Acknowledgement"
       url: /acknowledgement/
