@@ -9,8 +9,6 @@ location: "HCMC, Vietnam"
 ---
 
 
-Giới thiệu tổng quan
-
 Tóm tắt
 ========
 * Thời lượng: 3 Tiết
@@ -25,14 +23,14 @@ Giới thiệu tới sinh viên các thông tin chi tiết về môn học: chư
 ![image](https://scdc-hcm.github.io/flow-automation.io/images/lectures/figure-ic-design-detail-tools.svg)
 ##### Tổng quan về các công cụ thiết kế số
 
-A. VCS + DVE
-B. Design Compiler NXT
-C. TestMAX DFT
-D. Formality
-E. PrimeTime
-F. IC Compiler II
-G. StarRC
-H. IC Validator
+a. VCS + DVE
+b. Design Compiler NXT
+c. TestMAX DFT
+d. Formality
+e. PrimeTime
+f. IC Compiler II
+g. StarRC
+h. IC Validator
 
 
 Tài Liệu  
