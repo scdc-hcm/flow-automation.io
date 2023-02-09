@@ -16,5 +16,5 @@ Phòng Thiết kế vi mạch (Chip Design Lab, SHTP training)
 ##### Link tham khảo
 * [TRUNG TÂM THIẾT KẾ VI MẠCH KHU CÔNG NGHỆ CAO TP.HCM – SHTP CHIP DESIGN CENTER (SCDC)](http://www.shtp-training.edu.vn/le-khanh-thanh-trung-tam-thiet-ke-vi-mach-khu-cong-nghe-cao-tp-hcm-shtp-chip-design-center-scdc--392.html)
 
+![image](https://user-images.githubusercontent.com/7957412/217721538-eb23745f-a176-4c7a-bbd8-8caeb890cf3d.png)
 
-![image](http://www.shtp-training.edu.vn/img_data/images/Tin%20t%E1%BB%A9c/2022/Th%C3%A1ng%2010/tr%C3%ACnh%20chi%E1%BA%BFu%20edit-d-denoise.jpg)
