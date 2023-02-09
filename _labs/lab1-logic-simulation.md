@@ -17,6 +17,8 @@ Giới thiệu
 ======
 
 VCS được sử dụng để biên dịch các tệp đầu vào và mô phỏng thiết kế. Sử dụng công cụ DVE (Discovery Visual Environment) để gỡ lỗi. VCS là một công cụ biên dịch dòng lệnh các nguồn đầu vào. Bằng các sử dụng DVE, có thể kéo thả tín hiệu trong nhiều chế độ xem khác nhau hoặc sử dụng các cửa sổ tùy chọn để xem nguồn tín hiệu, theo dõi trình điều khiển, so sánh dạng sóng và xem sơ đồ . Sử dụng DVE để tìm lỗi trong RTL hoặc cổng, xác nhận, testbench và độ phủ nhanh chóng.
+
+
 Hướng dẫn thực hành
 ======
 Tải tài liệu
